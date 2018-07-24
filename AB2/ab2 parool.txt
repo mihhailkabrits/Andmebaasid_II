@@ -1,0 +1,3 @@
+ Rakendusse saab sisse logida 
+kasutajaga jari1 ja parooliga 123. Enne seda tuleb sisestada veel uks 
+parool, mis on ka 123.
